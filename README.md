@@ -1,1 +1,4 @@
-![cyerol GitHub stats](https://github-readme-stats.vercel.app/api?username=cyerol&show_icons=true&bg_color=00000000)
+# 👋 Hi, I'm Can Yiğiterol
+
+I work as a **Senior Technical SEO Specialist** at **SEOUP**, a company within **Digital Exchange**.  
+Previously at **Bitlo**.
